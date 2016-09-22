@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e86045b1-29fa-4162-8665-d52278369e80" name="hychill.com.au" url="http://hychill.com.au">
+        <fileTransfer host="halo.dreamhost.com" port="21" rootFolder="/hychill.com.au">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="07362dee-09c1-4074-a3c1-e56ee59ea38f" name="lpgmt.com" url="http://staging.lpgmt.com/">
+        <fileTransfer host="halo.dreamhost.com" port="21" rootFolder="/staging.lpgmt.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABIO0ctnYniuPjDbTrWQmgEsNGf+kULfGvAf1n5iyvpPVOfyjiNLXyGt/RR3iEA/x4gUlWmk7aQrPRGgM0L3Ob2ADOPNaYM09Wd7cCTUwS2tn10B08YneoeK03YCglPOEWtc5QOG2ea50Z7WO8lW+OdvTFP7T/NffWukapzMCHroSTiMDoshBNNYfmNU3DKP/sTAfVxT2C9/v4TCzHE5uZfTkGmMSntuV4tcbi8edlnWP+/JRwM4S7QCvxxIKw69IHkWjricanY4sVuG7XoTk9eZpLeBeNpm2qbxJOFDxgGX1O8t8grRHkoYvUsjThzrpF0MHeShvhgUzdmMWU3lorI4ojY+mlnMHTM+b2PlBi7kBIxLh2PbF/IO6bses9fQFsiN+nEK7o3HxlAyaj8PVbmQU=</data>
+  </component>
+</application>
