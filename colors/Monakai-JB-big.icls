@@ -1,10 +1,11 @@
 <scheme name="Monakai-JB-big" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_NAME" value="Roboto Mono Light for Powerline" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
@@ -16,7 +17,7 @@
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
-    <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
+    <option name="SELECTED_INDENT_GUIDE" value="1f2932" />
     <option name="SELECTION_BACKGROUND" value="49483e" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
@@ -1379,7 +1380,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="272822" />
+        <option name="BACKGROUND" value="1f2932" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
