@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
+  <component name="NotificationConfiguration">
     <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
     <notification groupId="External Executable Critical Failures" displayType="STICKY_BALLOON" />
     <notification groupId="File type recognized" />

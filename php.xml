@@ -11,7 +11,6 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php5.6.10/bin/php" id="a80b31f1-63f0-477b-9f17-a996080d4e33" name="MAMP PHP 5.6.10" debugger_id="php.debugger.XDebug" />
       <interpreter home="/Applications/MAMP/bin/php/php7.0.12/bin/php" id="adfcdbe6-25a1-4c4d-a433-4b2647883ba7" name="MAMP PHP 7.0.12" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
