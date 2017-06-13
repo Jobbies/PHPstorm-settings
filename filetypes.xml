@@ -4,8 +4,9 @@
     <extensionMap>
       <mapping pattern="docs" type="PHP" />
       <mapping pattern="_ausmade.less" type="PLAIN_TEXT" />
-      <mapping pattern="_variables4.scss" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_variables4.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_sds_start" type="SCSS" />
     </extensionMap>
   </component>
 </application>
