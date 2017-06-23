@@ -47,7 +47,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-color $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .less files into .css files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
@@ -63,8 +63,8 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="$USER_HOME$/.nvm/v6.3.1/bin/lessc" />
-      <option name="scopeName" value="Changed Files" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v8.1.2/bin/lessc" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
