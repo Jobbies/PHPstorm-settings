@@ -52,7 +52,7 @@
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Less" />
-      <option name="output" value="$USER_HOME$/Dropbox/sites/hychill.com.au-live/assets/css/$FileNameWithoutExtension$.css" />
+      <option name="output" value="$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
