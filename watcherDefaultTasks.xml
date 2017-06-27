@@ -25,15 +25,15 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update --default-encoding UTF-8 --style compressed $FileName$:$ProjectFileDir$/public/assets/css/$FileNameWithoutExtension$.css" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--no-cache --update --default-encoding UTF-8 --style compressed $FileName$:$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$ProjectFileDir$/public/assets/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/public/assets/css/$FileNameWithoutExtension$.css.map" />
+      <option name="output" value="$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css:$ProjectFileDir$/assets/css/$FileNameWithoutExtension$.css.map" />
       <option name="outputFilters">
         <array />
       </option>
