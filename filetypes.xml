@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="*.css.liquid" type="CSS" />
       <mapping pattern="*.js.liquid" type="JavaScript" />
+      <mapping pattern="dfsfs" type="JavaScript" />
       <mapping pattern="docs" type="PHP" />
       <mapping pattern="_ausmade.less" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
