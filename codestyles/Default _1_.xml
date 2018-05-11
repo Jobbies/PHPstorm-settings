@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
   </PHPCodeStyleSettings>
