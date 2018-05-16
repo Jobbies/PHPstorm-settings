@@ -7,10 +7,11 @@
       <mapping pattern="dfsfs" type="JavaScript" />
       <mapping pattern="docs" type="PHP" />
       <mapping pattern="_ausmade.less" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_variables4.scss" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="__top.php" type="PLAIN_TEXT" />
       <mapping pattern="hychill-logo-white" type="PLAIN_TEXT" />
+      <mapping pattern="header" type="PLAIN_TEXT" />
       <mapping pattern="*.scss.liquid" type="SCSS" />
       <mapping pattern="_sds_start" type="SCSS" />
       <mapping ext="liquid" type="Twig" />
